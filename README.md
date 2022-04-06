@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m <a href="https://github.com/aary114">@aary114</a>
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning c++
 
 <!---
 aary114/aary114 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
