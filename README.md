@@ -4,7 +4,7 @@
 </p>
 <br/>
 
-- 👋 Hi, I’m <a href="https://github.com/aary114">@aary114</a>
+- 👋 Hi, I’m <a href="https://github.com/aryan-parmar">@aryan-parmar</a>
 - 👀 I’m interested in Web development 
 - 🌱 I’m currently learning c++
 
