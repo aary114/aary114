@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m <a href="https://github.com/aryan-parmar">@aryan-parmar</a>
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning flutter
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=aryan-parmar&show_icons=true&theme=onedark)
 <!---
